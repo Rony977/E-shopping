@@ -7,3 +7,6 @@
 4. Copy project files: Copy the project files to the "htdocs" folder in your XAMPP installation directory. The default location for this folder is "C:\xampp\htdocs" on Windows, "/Applications/XAMPP/htdocs" on macOS, and "/opt/lampp/htdocs" on Linux.
 
 5. Access the project: To access the project, open a web browser and navigate to http://localhost/ followed by the name of the project folder you copied to the htdocs directory. For example, if your project is in a folder called "myproject", you would navigate to http://localhost/myproject.
+
+
+(NOTE : SQl file is given to import into the  database named "e_shopping")
